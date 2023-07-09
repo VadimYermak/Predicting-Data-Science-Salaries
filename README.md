@@ -4,6 +4,7 @@
 
 - [Description](#description)
 - [Background](#background)
+- [Feature Description](#feature-description)
 - [Installation Requirements / Technologies](#installation-requirements-technologies)
 - [Images](#images)
 - [Collaborators](#collaborators)
@@ -22,6 +23,22 @@ This is a financial portfolio planner that allows the user to research stocks an
 
 ## Background
 Financial concepts and wealth management can be daunting to understand for indivduals who do not have a background in finance. This program will allow users to research and experiment with different stocks and see how their decisions affect future financial returns. 
+
+## Feature Description
+This section provides a description of the features included in the dataset.
+```
+work_year: The year the salary was paid.
+experience_level: The experience level in the job during the year
+employment_type: The type of employment for the role
+job_title: The role worked in during the year.
+salary: The total gross salary amount paid.
+salary_currency: The currency of the salary paid as an ISO 4217 currency code.
+salary_in_usd: The salary in USD
+employee_residence: Employee's primary country of residence in during the work year as an ISO 3166 country code.
+remote_ratio: The overall amount of work done remotely
+company_location: The country of the employer's main office or contracting branch
+company_size: The median number of people that worked for the company during the year
+```
 
 ## Installation Requirements
 Import the following packages before running the script. Note that the user will need to create a .env file with their own API keys.
