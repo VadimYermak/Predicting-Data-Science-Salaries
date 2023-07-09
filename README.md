@@ -36,10 +36,11 @@ company_size: The median number of people that worked for the company during the
 ## Installation Requirements
 Import the following packages before running the script. Note that the user will need to create a .env file with their own API keys.
 ```
+import pandas as pd
 import numpy as np
 import pickle
 import streamlit as st
-
+import matplotlib.pyplot as plt
 
 ```
 ## Images
