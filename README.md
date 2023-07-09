@@ -4,7 +4,7 @@
 
 - [Description](#description)
 - [Background](#background)
-- [Feature Description](#feature-description)
+- [Feature Definitions](#feature-description)
 - [Installation Requirements / Technologies](#installation-requirements-technologies)
 - [Images](#images)
 - [Collaborators](#collaborators)
@@ -17,7 +17,7 @@ This project focuses on developing a machine learning model for predicting salar
 ## Background
 Data science is a field that combines various techniques, algorithms, and tools to extract meaningful insights and knowledge from structured and unstructured data. Data science salaries can vary widely depending on several factors such as location, level of experience, industry, company size, and education. The rapid growth of the data science field has resulted in an increased demand for accurate salary predictions within the industry.
 
-## Feature Description
+## Feature Definitions
 This section provides a description of the features included in the dataset.
 ```
 work_year: The year the salary was paid.
