@@ -4,7 +4,7 @@
 
 - [Description](#description)
 - [Background](#background)
-- [Feature Definitions](#feature-description)
+- [Dataset Features](#dataset_features)
 - [Installation Requirements](#installation-requirements)
 - [Images](#images)
 - [Collaborators](#collaborators)
@@ -17,7 +17,7 @@ This project focuses on developing a machine learning model for predicting salar
 ## Background
 Data science is a field that combines various techniques, algorithms, and tools to extract meaningful insights and knowledge from structured and unstructured data. Data science salaries can vary widely depending on several factors such as location, level of experience, industry, company size, and education. The rapid growth of the data science field has resulted in an increased demand for accurate salary predictions within the industry.
 
-## Feature Definitions
+## Dataset Features
 This section provides a description of the features included in the dataset.
 ```
 work_year: The year the salary was paid.
@@ -55,8 +55,11 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import classification_report
 warnings.filterwarnings('ignore')
-
 ```
+## Approach
+
+## Evaluation
+
 ## Images
 The script allows user prompts to select from a list with very few manual entries.
 
