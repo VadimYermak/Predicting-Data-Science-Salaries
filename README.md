@@ -37,10 +37,21 @@ company_size: The median number of people that worked for the company during the
 Import the following packages before running the script. Note that the user will need to create a .env file with their own API keys.
 ```
 import pandas as pd
+from pathlib import Path
+import seaborn as sn
 import numpy as np
 import pickle
 import streamlit as st
 import matplotlib.pyplot as plt
+import warnings
+from sklearn.preprocessing import StandardScaler,OneHotEncoder
+from sklearn.model_selection import train_test_split
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.models import Sequential
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+from sklearn.metrics import classification_report
+warnings.filterwarnings('ignore')
 
 ```
 ## Images
