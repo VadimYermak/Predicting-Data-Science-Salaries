@@ -12,8 +12,6 @@
 - [License](#license)
 
 ## Description
-This is a financial portfolio planner that allows the user to research stocks and create a portfolio of stocks. The user is able able to preview the expected return, volatility and sharp ratio for the stock of their choice. After assessing this information, or if the user already knows which stocks they would like to place in their portfolio, this program will simulate its performance over time. Parameters such as initial portfolio investment, weight of the stocks in the portfolio, and investment length of time are inputs provided by the user.
-
 
 
 <div align="center">
@@ -22,7 +20,7 @@ This is a financial portfolio planner that allows the user to research stocks an
 <br/>
 
 ## Background
-Financial concepts and wealth management can be daunting to understand for indivduals who do not have a background in finance. This program will allow users to research and experiment with different stocks and see how their decisions affect future financial returns. 
+
 
 ## Feature Description
 This section provides a description of the features included in the dataset.
@@ -68,9 +66,9 @@ User can also generate a Favorites List for their stocks for future reference.
 <img src = "https://github.com/VadimYermak/Project-1/blob/main/Images/Favorites%20List.png" width="300">
 
 ## Collaborators
++ Philippe Timothe (PhilippeTimothe@gmail.com)
 + Bryan Lu (btl245@stern.nyu.edu)
 + Vadim Yermak (vadik.ermak@gmail.com)
-+ Philippe Timothe (PhilippeTimothe@gmail.com)
 + John Nguyen (nguyenjohn1337@gmail.com)
 + Cherryl Adzang (cherryl.adzang@gmail.com)
 
