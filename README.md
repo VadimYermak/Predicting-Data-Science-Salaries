@@ -34,7 +34,7 @@ company_size: The median number of people that worked for the company during the
 ```
 
 ## Installation Requirements
-Import the following packages before running the script. Note that the user will need to create a .env file with their own API keys.
+Import the following packages before running the script. For the prediction user interface:
 ```
 import pandas as pd
 from pathlib import Path
@@ -43,6 +43,9 @@ import numpy as np
 import pickle
 import streamlit as st
 import matplotlib.pyplot as plt
+```
+For neural network model creation and evaluation:
+```
 import warnings
 from sklearn.preprocessing import StandardScaler,OneHotEncoder
 from sklearn.model_selection import train_test_split
