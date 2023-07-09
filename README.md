@@ -12,7 +12,7 @@
 - [License](#license)
 
 ## Description
-
+This project focuses on developing a machine learning model for predicting salaries. The objective is to develop a machine learning model that  estimates salaries based on various key features. For data cleaning, features were evaluated for importance and predictive value. Supervised learning and neural network models were developed and tested to deliver reliable predictions for salary-related decision-making.
 
 <div align="center">
 <img src="Images/Portfolio Planner.gif"  style="width: 100%; height: 600px; object-fit: none;">
@@ -75,7 +75,7 @@ User can also generate a Favorites List for their stocks for future reference.
 ## Sources
 Columbia Engineering Bootcamp learning materials
 
-[RANDOMARNAB]. ([2023]). [Name of the dataset], [Data Science Salaries 2023 : Salaries of Different Data Science Fields in the Data Science Domain]. Retrieved [2023-06-23] from [https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023].
+[RANDOMARNAB]. [2023].[Data Science Salaries 2023 : Salaries of Different Data Science Fields in the Data Science Domain]. Retrieved [2023-06-23] from [https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023].
 
 ## License
 
