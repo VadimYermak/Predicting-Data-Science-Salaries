@@ -44,6 +44,28 @@ import pickle
 import streamlit as st
 import matplotlib.pyplot as plt
 ```
+For supervised learning models and evaluation:
+```
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.impute import SimpleImputer
+from sklearn.pipeline import Pipeline
+from sklearn.compose import ColumnTransformer
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from sklearn.linear_model import LinearRegression,Ridge,Lasso
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
+from sklearn.svm import SVR
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+from sklearn.feature_selection import SelectKBest, f_regression
+from sklearn.model_selection import GridSearchCV, cross_val_score
+from sklearn import metrics
+from sklearn.preprocessing import MinMaxScaler,StandardScaler
+from sklearn.feature_selection import RFE
+from sklearn.gaussian_process import GaussianProcessRegressor
+```
 For neural network model creation and evaluation:
 ```
 import warnings
