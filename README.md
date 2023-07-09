@@ -14,11 +14,6 @@
 ## Description
 This project focuses on developing a machine learning model for predicting salaries. The objective is to develop a machine learning model that  estimates salaries based on various key features. For data cleaning, features were evaluated for importance and predictive value. Supervised learning and neural network models were developed and tested to deliver reliable predictions for salary-related decision-making.
 
-<div align="center">
-<img src="Images/Portfolio Planner.gif"  style="width: 100%; height: 600px; object-fit: none;">
-</div>
-<br/>
-
 ## Background
 
 
