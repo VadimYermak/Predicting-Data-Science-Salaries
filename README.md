@@ -1,4 +1,4 @@
-<h1 align="center">Machine-Learning-Project-I</h1>
+<h1 align="center">Predicting Data Science Salaries</h1>
 
 ## Table of contents
 
