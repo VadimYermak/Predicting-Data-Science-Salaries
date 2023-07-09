@@ -75,6 +75,8 @@ User can also generate a Favorites List for their stocks for future reference.
 ## Sources
 Columbia Engineering Bootcamp learning materials
 
+[RANDOMARNAB]. ([2023]). [Name of the dataset], [Data Science Salaries 2023 : Salaries of Different Data Science Fields in the Data Science Domain]. Retrieved [2023-06-23] from [https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023].
+
 ## License
 
     MIT License
