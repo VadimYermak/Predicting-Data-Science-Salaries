@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Background](#background)
 - [Feature Definitions](#feature-description)
-- [Installation Requirements / Technologies](#installation-requirements-technologies)
+- [Installation Requirements](#installation-requirements)
 - [Images](#images)
 - [Collaborators](#collaborators)
 - [Sources](#sources)
@@ -36,18 +36,11 @@ company_size: The median number of people that worked for the company during the
 ## Installation Requirements
 Import the following packages before running the script. Note that the user will need to create a .env file with their own API keys.
 ```
-import os
-import requests
-import pandas as pd
 import numpy as np
-from dotenv import load_dotenv
-import alpaca_trade_api as tradeapi
-import fire
-import questionary
-import json
-from MCForecastTools import MCSimulation
+import pickle
+import streamlit as st
 
-%matplotlib inline
+
 ```
 ## Images
 The script allows user prompts to select from a list with very few manual entries.
