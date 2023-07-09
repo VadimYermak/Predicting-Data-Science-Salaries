@@ -60,17 +60,6 @@ warnings.filterwarnings('ignore')
 
 ## Evaluation
 
-## Images
-The script allows user prompts to select from a list with very few manual entries.
-
-| Select stocks from a list| Monte Carlo Simulation |
-| :-----------------:| :-----------------:|
-| <img src = "https://github.com/VadimYermak/Project-1/blob/main/Images/Stocks%20List.png" width="300">| <img src = "https://github.com/VadimYermak/Project-1/blob/main/Images/Monte%20Carlo%20Simulation.png" width="420"> |
-
-User can also generate a Favorites List for their stocks for future reference.
-
-<img src = "https://github.com/VadimYermak/Project-1/blob/main/Images/Favorites%20List.png" width="300">
-
 ## Collaborators
 + Philippe Timothe (PhilippeTimothe@gmail.com)
 + Bryan Lu (btl245@stern.nyu.edu)
