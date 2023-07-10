@@ -16,6 +16,10 @@
 ## Description ##
 This project focuses on developing a machine learning model for predicting salaries. The objective is to develop a machine learning model that  estimates salaries based on various key features. For data cleaning, features were evaluated for importance and predictive value. Supervised learning and neural network models were developed and tested to deliver reliable predictions.
 
+<a href="" target="_blank" rel="noreferrer"><img src="Images/StreamLit UI.png" width="" height="200" alt="StreamLit UI" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="Images/Explore UI.png" width="" height="200" alt="StreamLit UI" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="Images/Box Plot - Project 2.png" width="" height="200" alt="StreamLit UI" /></a>
+
 ## Background ##
 Data science is a field that combines various techniques, algorithms, and tools to extract meaningful insights and knowledge from structured and unstructured data. Data science salaries can vary widely depending on several factors such as location, level of experience, industry, company size, and education. The rapid growth of the data science field has resulted in an increased demand for accurate salary predictions within the industry.
 
