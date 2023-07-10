@@ -87,7 +87,7 @@ Feature importance is a measure of the relative importance or relevance of each 
 
 **Correlation to the Target Variable**
 
-We used this metric to assess the relationship between each individual feature and the target variable (salary_in_usd). A positive correlation means that as the feature increases, the target variable tends to increase, while negative correlation means that as the feature increases, the target variable tends to decrease. Correlation to the target variable was also to gain insights in the feature's behavior.
+We used this metric to assess the relationship between each individual feature and the target variable (salary_in_usd). A positive correlation means that as the feature increases, the target variable tends to increase, while negative correlation means that as the feature increases, the target variable tends to decrease. Correlation to the target variable was also analyzed to assess the feature's behavior.
 
 ## Evaluation
 ### Model Evaluation ###
