@@ -68,7 +68,7 @@ def show_prediction_page():
     company_s = st.selectbox("Company Size", company_sizes)
 
     # Create a button that will show prediction results
-    calculate = st.button("Caluculate Salary Prediction")
+    calculate = st.button("Calculate Salary Prediction")
     if calculate == True:
         X = np.array(
             [
