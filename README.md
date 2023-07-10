@@ -6,8 +6,10 @@
 - [Background](#background)
 - [Dataset Features](#dataset_features)
 - [Installation Requirements](#installation-requirements)
+- [Approach](#approach)
+- [Evaluation](#evaluation)
 - [Images](#images)
-- [Collaborators](#collaborators)
+- [Contributors](#contributors)
 - [Sources](#sources)
 - [License](#license)
 
@@ -78,7 +80,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import classification_report
 warnings.filterwarnings('ignore')
 ```
-## Approach
+## Approach ##
 Preprocessing of the data involves analysis of the features and the target variable (salary_in_usd). Scikit-learn fitted attribute `feature_importances_` is used for analysis. Correlation of features to the target variable was also used using the Pandas attribute `pandas.DataFrame.corr(method='pearson')`.
 
 **Feature Importance**
@@ -91,7 +93,7 @@ We used this metric to assess the relationship between each individual feature a
 
 ## Evaluation
 ### Model Evaluation ###
-Supervised learning Models
+Supervised Learning Models
 
 Neural Network Models
 
