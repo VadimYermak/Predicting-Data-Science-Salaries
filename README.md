@@ -108,9 +108,12 @@ Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Square Error 
 <a href="" target="_blank" rel="noreferrer"><img src="Images/Modified_Features.png" width="400" height="200" alt="Modified_Features.png" /></a>
 
 **Neural Network Models**
+
 The loss function measures the difference between the predicted outputs of the neural network and the true target values. Since the model predicts a continuous value, loss rather than accuracy was used to evaluate our neural network models.
 
-<a href="" target="_blank" rel="noreferrer"><img src="Images/Neural_Network" width="400" height="200" alt="" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="Images/Neural_Network.png" width="" height="200" alt="" /></a>
+
+We were unsuccessful at minimizing the loss function even after adjusting the neural network parameters and decided to proceed with the linear regression model.
 
 ## Contributors ##
 + Philippe Timothe (PhilippeTimothe@gmail.com)
