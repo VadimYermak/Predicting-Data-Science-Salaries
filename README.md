@@ -1,6 +1,6 @@
 <h1 align="center">Predicting Data Science Salaries</h1>
 
-## Table of contents
+## Table of Contents ##
 
 - [Description](#description)
 - [Background](#background)
@@ -13,13 +13,13 @@
 - [Sources](#sources)
 - [License](#license)
 
-## Description
+## Description ##
 This project focuses on developing a machine learning model for predicting salaries. The objective is to develop a machine learning model that  estimates salaries based on various key features. For data cleaning, features were evaluated for importance and predictive value. Supervised learning and neural network models were developed and tested to deliver reliable predictions.
 
-## Background
+## Background ##
 Data science is a field that combines various techniques, algorithms, and tools to extract meaningful insights and knowledge from structured and unstructured data. Data science salaries can vary widely depending on several factors such as location, level of experience, industry, company size, and education. The rapid growth of the data science field has resulted in an increased demand for accurate salary predictions within the industry.
 
-## Dataset Features
+## Dataset Features ##
 This section provides a description of the features included in the dataset.
 ```
 work_year: The year the salary was paid.
@@ -35,7 +35,7 @@ company_location: The country of the employer's main office or contracting branc
 company_size: The median number of people that worked for the company during the year
 ```
 
-## Installation Requirements
+## Installation Requirements ##
 Import the following packages before running the script. For the prediction user interface:
 ```
 import pandas as pd
@@ -91,25 +91,25 @@ Feature importance is a measure of the relative importance or relevance of each 
 
 We used this metric to assess the relationship between each individual feature and the target variable (salary_in_usd). A positive correlation means that as the feature increases, the target variable tends to increase, while negative correlation means that as the feature increases, the target variable tends to decrease. Correlation to the target variable was also analyzed to assess the feature's behavior.
 
-## Evaluation
+## Evaluation ##
 ### Model Evaluation ###
 Supervised Learning Models
 
 Neural Network Models
 
-## Contributors
+## Contributors ##
 + Philippe Timothe (PhilippeTimothe@gmail.com)
 + Bryan Lu (btl245@stern.nyu.edu)
 + Vadim Yermak (vadik.ermak@gmail.com)
 + John Nguyen (nguyenjohn1337@gmail.com)
 + Cherryl Adzang (cherryl.adzang@gmail.com)
 
-## Sources
+## Sources ##
 Columbia Engineering Bootcamp learning materials
 
 [RANDOMARNAB]. [2023].[Data Science Salaries 2023 : Salaries of Different Data Science Fields in the Data Science Domain]. Retrieved [2023-06-23] from [https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023].
 
-## License
+## License ##
 
     MIT License
 
