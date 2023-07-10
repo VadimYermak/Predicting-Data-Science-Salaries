@@ -81,13 +81,18 @@ warnings.filterwarnings('ignore')
 ## Approach
 
 ## Evaluation
--Preprocessing of the data involves analysis of the features and the target variable (salary_in_usd). For feature analysis, `feature_importances_` from scikit-learn was used along with calculating the correlation to the target variable.
+### Feature Understanding
+Preprocessing of the data involves analysis of the features and the target variable (salary_in_usd). For feature analysis, `feature_importances_` from scikit-learn was used along with calculating the correlation to the target variable.
 
--Feature importance is a measure of the relative importance or relevance of each feature to the model's prediction. The number in the chart below quantifies how much each feature contributes to the model's overall performance in making accurate predictions. We used this information in decision to identify influential features, and gain further insights into the model's behavior.
+Feature importance is a measure of the relative importance or relevance of each feature to the model's prediction. The number in the chart below quantifies how much each feature contributes to the model's overall performance in making accurate predictions. We used this information in decision to identify influential features, and gain further insights into the model's behavior.
 
--Correlation to the Target Variable:
+Correlation to the Target Variable:
 We used this metric to assess the relationship between each individual feature and the target variable (salary_in_usd). A positive correlation means that as the feature increases, the target variable tends to increase, while negative correlation means that as the feature increases, the target variable tends to decrease. Correlation to the target variable was also to gain insights in the feature's behavior.
 
+### Model Evaluation
+Supervised learning Models
+
+Neural Network Models
 
 ## Collaborators
 + Philippe Timothe (PhilippeTimothe@gmail.com)
