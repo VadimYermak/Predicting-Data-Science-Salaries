@@ -100,8 +100,10 @@ We used this metric to assess the relationship between each individual feature a
 
 ## Evaluation ##
 ### Model Evaluation ###
-** Supervised Learning Models **
+**Supervised Learning Models**
+
 A regression model was used for this project. Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Square Error (RMSE) are commonly used metrics for evaluating regression models. The supervised learning models in this project were evaluated based on MAE since it less sensitive to salary outliers.
+
 
 
 Neural Network Models
