@@ -8,7 +8,6 @@
 - [Installation Requirements](#installation-requirements)
 - [Approach](#approach)
 - [Evaluation](#evaluation)
-- [Images](#images)
 - [Contributors](#contributors)
 - [Sources](#sources)
 - [License](#license)
