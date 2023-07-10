@@ -102,12 +102,14 @@ We used this metric to assess the relationship between each individual feature a
 ### Model Evaluation ###
 **Supervised Learning Models**
 
-Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Square Error (RMSE) are commonly used metrics for evaluating regression models. The supervised learning models in this project were evaluated based on MAE since it less sensitive to salary outliers. This project utilizes a linear regression model. Note the improvement the MAE after the data was cleaned in the charts below:
+Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Square Error (RMSE) are commonly used metrics for evaluating regression models. The supervised learning models in this project were evaluated based on MAE since it less sensitive to salary outliers. This project utilizes a linear regression model. Note the improvement with the MAE after the data was cleaned in the charts below:
 
 <a href="" target="_blank" rel="noreferrer"><img src="Images/Unmodified_Features.png" width="400" height="200" alt="Modified_Features.png" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="Images/Modified_Features.png" width="400" height="200" alt="Modified_Features.png" /></a>
 
 Neural Network Models
+
+The loss function measures the difference between the predicted outputs of the neural network and the true target values. Since the model predicts a continuous value, loss rather than accuracy was used to evaluate our neural network models.
 
 ## Contributors ##
 + Philippe Timothe (PhilippeTimothe@gmail.com)
