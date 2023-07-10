@@ -79,7 +79,7 @@ from sklearn.metrics import classification_report
 warnings.filterwarnings('ignore')
 ```
 ## Approach
-Preprocessing of the data involves analysis of the features and the target variable (salary_in_usd). Scikit-learn fitted attribute `feature_importances_` is used for analysis. Correlation of features to the target variable was also used for insights using the Pandas attribute `pandas.DataFrame.corr(method='pearson')`.
+Preprocessing of the data involves analysis of the features and the target variable (salary_in_usd). Scikit-learn fitted attribute `feature_importances_` is used for analysis. Correlation of features to the target variable was also used using the Pandas attribute `pandas.DataFrame.corr(method='pearson')`.
 
 **Feature Importance**
 
@@ -88,9 +88,9 @@ Feature importance is a measure of the relative importance or relevance of each 
 **Correlation to the Target Variable**
 
 We used this metric to assess the relationship between each individual feature and the target variable (salary_in_usd). A positive correlation means that as the feature increases, the target variable tends to increase, while negative correlation means that as the feature increases, the target variable tends to decrease. Correlation to the target variable was also to gain insights in the feature's behavior.
-## Evaluation
 
-### Model Evaluation
+## Evaluation
+### Model Evaluation ###
 Supervised learning Models
 
 Neural Network Models
