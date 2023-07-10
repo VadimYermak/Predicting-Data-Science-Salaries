@@ -90,7 +90,7 @@ Preprocessing of the data involves analysis of the features and the target varia
 
 Feature importance is a measure of the relative importance or relevance of each feature to the model's prediction. The number in the chart below quantifies how much each feature contributes to the model's overall performance in making accurate predictions. We used this information to identify influential features, and gain further insights into the model's behavior.
 
-<a href="" target="_blank" rel="noreferrer"><img src="Images/" width="" height="400" alt="StreamLit UI" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="Images/Feature Importance.png" width="" height="300" alt="StreamLit UI" /></a>
 
 **Correlation to the Target Variable**
 
