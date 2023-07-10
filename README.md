@@ -88,7 +88,7 @@ Preprocessing of the data involves analysis of the features and the target varia
 
 **Feature Importance**
 
-Feature importance is a measure of the relative importance or relevance of each feature to the model's prediction. The number in the chart below quantifies how much each feature contributes to the model's overall performance in making accurate predictions. We used this information in decision to identify influential features, and gain further insights into the model's behavior.
+Feature importance is a measure of the relative importance or relevance of each feature to the model's prediction. The number in the chart below quantifies how much each feature contributes to the model's overall performance in making accurate predictions. We used this information to identify influential features, and gain further insights into the model's behavior.
 
 **Correlation to the Target Variable**
 
