@@ -88,7 +88,7 @@ Preprocessing of the data involves analysis of the features and the target varia
 
 **Feature Importance**
 
-Feature importance is a measure of the relative importance or relevance of each feature to the model's prediction. The number in the chart below quantifies how much each feature contributes to the model's overall performance in making accurate predictions. We used this information to identify influential features, and gain further insights into the model's behavior.
+Feature importance is a measure of the relative importance or relevance of each feature to the model's prediction. Importance in the chart below quantifies how much each feature contributes to the model's overall performance in making accurate predictions. We used this information to identify influential features, and gain further insights into the model's behavior.
 
 <a href="" target="_blank" rel="noreferrer"><img src="Images/Feature Importance.png" width="" height="300" alt="" /></a>
 
@@ -100,7 +100,9 @@ We used this metric to assess the relationship between each individual feature a
 
 ## Evaluation ##
 ### Model Evaluation ###
-Supervised Learning Models
+** Supervised Learning Models **
+A regression model was used for this project. Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Square Error (RMSE) are commonly used metrics for evaluating regression models. The supervised learning models in this project were evaluated based on MAE since it less sensitive to salary outliers.
+
 
 Neural Network Models
 
